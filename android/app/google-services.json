@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "32711277062",
+    "firebase_url": "https://new-project-58ca3.firebaseio.com",
+    "project_id": "new-project-58ca3",
+    "storage_bucket": "new-project-58ca3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32711277062:android:2cdc382116a9a498fc2187",
+        "android_client_info": {
+          "package_name": "com.example.booksmela_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32711277062-p57tfvm16vfajlu44ldv7njj8n3gqk2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDklgrhlSLgkRkRZzSXIVZQSXekw6jyt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32711277062-p57tfvm16vfajlu44ldv7njj8n3gqk2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
